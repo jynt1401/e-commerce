@@ -1,4 +1,5 @@
 visit-https://jynt1401.github.io/e-commerce/
+(not a responsive, open in desktop)
 
 # e-commerce
 its is simple website for clothing  e commerce 
